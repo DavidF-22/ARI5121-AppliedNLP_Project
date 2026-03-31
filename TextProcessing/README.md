@@ -1,3 +1,3 @@
 ```bash
-pip install pandas nltk optuna tensorflow[and-cuda] scikit-learn ipykernel plotly kaleido
+pip install pandas nltk tensorflow[and-cuda] scikit-learn plotly kaleido ipykernel nbformat
 ```
