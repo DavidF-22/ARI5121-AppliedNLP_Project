@@ -12,7 +12,7 @@ The project is divided into two main components:
 
 Each component is organised independently and includes its own documentation, implementation details and results.
 
-`This repository serves as a complete submission and reference for the practical work carried out throughout the unit.`
+**This repository serves as a complete submission and reference for the practical work carried out throughout the unit.**
 
 ## 📧 Contact
 
