@@ -17,7 +17,7 @@ The project implementation follows a complete NLP pipeline, including preprocess
 
 ## 🔄 Pipeline Overview
 <p align="center">
-  <img src="Docs/diagrams/ArchitectureDiagram_Light_NoBackground.png" alt="Pipeline Diagram" width="800"/>
+  <img src="Docs/diagrams/ArchitectureDiagram_Light_NoBackground.png" alt="Pipeline Diagram"/>
   <em>Figure 1: Overview of the implemented pipeline used in this project.</em>
 </p>
 
