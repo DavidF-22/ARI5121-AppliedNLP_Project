@@ -16,6 +16,7 @@ The objective is to reproduce the Fine-Tuned CNN-LSTM model proposed in the pape
 The project implementation follows a complete NLP pipeline, including preprocessing, feature extraction, model training, evaluation, and inference. In addition to replicating the original model, classical machine learning baselines and a modified Fine-Tuned CNN-LSTM with attention are implemented to provide a deeper comparative analysis.
 
 ## 🔄 Pipeline Overview
+
 <p align="center">
   <img src="Docs/diagrams/ArchitectureDiagram_Light_NoBackground.png" alt="Pipeline Diagram"/>
   <em>Figure 1: Overview of the implemented pipeline used in this project.</em>
@@ -42,6 +43,20 @@ Training is performed using:
 - Early stopping and learning rate scheduling
 
 All outputs, including trained models, trainin plots, evaluation plots & elapsed time, are automatically saved.
+
+### 🔍 `load_models.ipynb` Notebook (Optional)
+
+A separate notebook `load_models.ipynb` is included to independently verify the performance of the trained models.
+
+This notebook loads the saved `.keras` models and recomputes key evaluation metrics such as:
+
+- Accuracy
+- Weighted F1-score
+
+The purpose is to ensure consistency between saved models and the results reported during training in `ReplicationStudy_Training&Eval.ipynb`.
+
+> [!NOTE]
+> This step is completely optional and intended as a validation check rather than part of the main experimental pipeline.
 
 ## 💻 Installation
 
