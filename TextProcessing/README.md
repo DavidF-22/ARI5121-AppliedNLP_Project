@@ -123,6 +123,10 @@ The original paper does not provide a complete implementation of the CNN-LSTM ar
 
 Where implementation details were unclear, reasonable assumptions and external tools were used to assist in interpreting and analysing the methodology. However, all final implementation decisions were made within the context of this study.
 
+## Acknowledgments
+
+This individual project was carried out as part of the partial fulfilment of the requirements for the `ARI5121 Applied Natural Language Processing` course @ the [University of Malta](https://www.um.edu.mt/).
+
 ## 📧 Contact
 
 For any inquiries or feedback, please contact [David Farrugia](mailto:david.farrugia.22@um.edu.mt)
