@@ -1,4 +1,4 @@
-# 🗣️ ARI5121 - pplied Natural Language Processing
+# 🗣️ ARI5121 - Applied Natural Language Processing
 
 This repository contains the coursework developed as part of the **ARI5121 - Applied Natural Language Processing** study unit at the University of Malta.
 
