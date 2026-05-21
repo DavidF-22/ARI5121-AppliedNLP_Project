@@ -218,3 +218,5 @@ __marimo__/
 # ----- [Project Based Customisations] -----
 # Docs/
 Out/
+extracted_wavs/
+results/
