@@ -217,6 +217,6 @@ __marimo__/
 
 # ----- [Project Based Customisations] -----
 # Docs/
-Out/
-extracted_wavs/
-results/
+TextProcessing/Out/
+SpeechProcessing/extracted_wavs/
+SpeechProcessing/results/
