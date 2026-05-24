@@ -1,4 +1,4 @@
-# ARI5121 - NLP Text Processing Replication Study
+# 📔 ARI5121 - NLP Text Processing Replication Study
 
 **Student:** David Farrugia <br>
 **Paper:** [NLP based text classification using TF-IDF enabled fine-tuned long short-term memory: An empirical analysis](https://doi.org/10.1016/j.array.2025.100467)  

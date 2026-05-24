@@ -1,4 +1,4 @@
-# 💬 Speech Processing – Speaker Verification Analysis
+# 💬 ARI5121 - NLP Speech Processing Speaker Verification Analysis
 
 This folder contains the speech processing component of the ARI5121 Applied NLP project.  
 The project evaluates speaker similarity using the **ABI-1 Corpus** and a pre-trained WavLM speaker verification model.
