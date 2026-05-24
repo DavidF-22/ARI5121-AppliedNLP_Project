@@ -8,7 +8,7 @@ The project is divided into two main components:
   Focuses on NLP-based text classification, including preprocessing, feature extraction, model training, evaluation, and replication of a research paper.
 
 - **SpeechProcessing/**  
-  Contains work related to speech-based processing tasks explored during the study unit.
+    Focuses on speaker voice similarity analysis using WavLM embeddings, cosine similarity, and threshold-based speaker identification on the ABI-1 corpus.
 
 Each component is organised independently and includes its own documentation, implementation details and results.
 
