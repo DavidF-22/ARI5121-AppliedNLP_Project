@@ -14,7 +14,7 @@ Each component is organised independently and includes its own documentation, im
 
 **This repository contains the complete project implementation developed in fulfilment of the Applied Natural Language Processing study unit.**
 
-## Acknowledgments
+## 👍 Acknowledgments
 
 This individual project was carried out as part of the partial fulfilment of the requirements for the **ARI5121 Applied Natural Language Processing** course @ **[The University of Malta](https://www.um.edu.mt/)**.
 

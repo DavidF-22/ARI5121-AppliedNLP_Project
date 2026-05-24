@@ -80,6 +80,10 @@ Some processing stages may take time, especially embedding extraction and pairwi
 
 The notebook automatically uses CUDA if a compatible GPU is available. Otherwise, it runs on CPU.
 
+## 👍 Acknowledgments
+
+This individual project was carried out as part of the partial fulfilment of the requirements for the **ARI5121 Applied Natural Language Processing** course @ **[The University of Malta](https://www.um.edu.mt/)**.
+
 ## 📧 Contact
 
 For any inquiries or feedback, please contact [David Farrugia](mailto:david.farrugia.22@um.edu.mt).
